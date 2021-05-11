@@ -1,0 +1,4 @@
+train/1.bmp,117,100,133,115,prosthesis
+train/1.bmp,128,107,148,122,prosthesis
+train/1.bmp,130,90,150,106,prosthesis
+train/1.bmp,148,91,165,107,prosthesis
